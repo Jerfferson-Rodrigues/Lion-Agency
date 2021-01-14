@@ -117,19 +117,19 @@ header nav.desktop-menu li a{
     margin-top: 10px;
 }
 
-section.conteudo1{
+section.session1{
     width: 100%;
     background-color: purple;
     padding: 0px 2%;
     height: 400px;
 }
 
-section.conteudo1 .container{
+section.session1 .container{
     max-width: 1000px;
     height: calc(100% + 30px);
 }
 
-.text-cont1{
+.text-session1{
     float: left;
     width: 50%;
     margin-top: 60px;
@@ -139,23 +139,23 @@ section.conteudo1 .container{
     color: white;
 }
 
-.text-cont1 h2{
+.text-session1 h2{
     font-size: 26px;
     font-weight: 300;
 }
 
-.text-cont1 p{
+.text-session1 p{
     margin-top: 20px;
     font-size: 15px;
 }
 
-.text-cont1 ul{
+.text-session1 ul{
     font-size: 15px;
     list-style-position: outside;
     padding-left: 15px;
 }
 
-.text-cont1 ul li{
+.text-session1 ul li{
     float: left;
     width: 100%;
     margin-top: 8px;
@@ -184,29 +184,29 @@ section.conteudo1 .container{
     background-size: 100% 100%;
 }
 
-.conteudo2{
+.session2{
     padding-left: 2%;
     padding-right: 2%;
     background-color: white;
     text-align: center;
 }
 
-.conteudo2 h2{
+.session2 h2{
     color: #472663;
     font-weight: 300;
 }
 
-.conteudo2 p{
+.session2 p{
     margin-top: 30px;
     max-width: 600px;
     display: inline-block;
 }
 
-.conteudo2 .container{
+.session2 .container{
     max-width: 900px;
 }
 
-.conteudo2 img{
+.session2 img{
     position: relative;
     top: 70px;
     width: 90%;
@@ -215,7 +215,7 @@ section.conteudo1 .container{
     box-shadow: 2px 5px 10px #1a001a;
 }
 
-.conteudo3{
+.session3{
     width: 100%;
 }
 
@@ -322,7 +322,7 @@ section.conteudo1 .container{
     background-color: rgb(200,200,200);
 }
 
-.conteudo4{
+.session4{
     background-color: #472663;
     padding: 100px 0;
 }
@@ -475,13 +475,13 @@ footer p:nth-of-type(2){
         margin-top: 10px;
     } 
 
-    section.conteudo1{
+    section.session1{
         padding: 40px 2%;
         height: auto;
         text-align: center;
     }
 
-    .text-cont1{
+    .text-session1{
         width: 100%;
         margin-top: 0;
         padding-left: 0;
@@ -490,12 +490,12 @@ footer p:nth-of-type(2){
         display: inline-block;
     }
 
-    .text-cont1 ul{
+    .text-session1 ul{
          display: inline-block;
          margin-top: 20px;
     }
 
-    .text-cont1 ul li{
+    .text-session1 ul li{
         float:none;
         text-align: left;
     }
@@ -508,11 +508,11 @@ footer p:nth-of-type(2){
         display: none;
     }
 
-    .conteudo2{
+    .session2{
         padding: 40px 2%;
     }
 
-    .conteudo4 .container{
+    .session4 .container{
         text-align: center;
     }
 
